@@ -1,0 +1,15 @@
+.pro {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  color: white;
+  padding: 20px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.style {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.colour {
+  color: #171f46;
+}

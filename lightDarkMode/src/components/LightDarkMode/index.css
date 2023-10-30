@@ -1,0 +1,29 @@
+.container {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Roboto';
+  width: 300px;
+  height: 300px;
+  border-width: 0px;
+  padding: 20px;
+  text-align: center;
+}
+.container-light {
+  border-color: #000000;
+  border-width: 5px;
+  background-color: #ffffff;
+  color: #000000;
+  padding: 20px;
+  width: 300px;
+}
+.button {
+  width: 100px;
+  padding: 5px;
+  background-color: #ffffff;
+  color: #000000;
+}
+.button-light {
+  width: 100px;
+  padding: 5px;
+  border-width: 3px;
+}

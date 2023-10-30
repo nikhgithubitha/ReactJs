@@ -1,0 +1,27 @@
+.container {
+  background-color: #ffd569;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+.card {
+  background-color: #ffffff;
+  margin: 30px;
+  border-radius: 5px;
+  color: #000000;
+  padding: 10px;
+}
+.button {
+  background-color: #007bff;
+  width: 85px;
+  padding: 5px;
+  color: #ffffff;
+}
+.pro {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.image {
+  width: 250px;
+  height: 250px;
+}

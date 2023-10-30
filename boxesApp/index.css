@@ -1,0 +1,36 @@
+.bg-container {
+  text-align: center;
+  font-family: "Roboto";
+}
+
+.box-container {
+  font-family: "Bree Serif";
+  color: #ffffff;
+  padding: 20px;
+  margin: 20px;
+  align-self: flex-end;
+}
+
+.yellow {
+  height: 50px;
+  width: 50px;
+  background-color: #fbbf24;
+}
+
+.blue {
+  height: 150px;
+  width: 150px;
+  background-color: #38bdf8;
+}
+
+.pink {
+  height: 450px;
+  width: 450px;
+  background-color: #ec4899;
+  flex-wrap: flex-end;
+}
+
+.pro {
+  display: flex;
+  flex-direction: row;
+}

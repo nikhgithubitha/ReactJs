@@ -1,0 +1,18 @@
+.container {
+  background-color: #1e293b;
+  padding: 50px;
+  text-align: center;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  height: 100vh;
+}
+.heading {
+  color: #f0bb03;
+}
+.button {
+  width: 100px;
+  padding: 5px;
+  background-color: #ffffff;
+  color: #1e293b;
+  border-radius: 3px;
+}

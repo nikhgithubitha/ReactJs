@@ -1,0 +1,16 @@
+.bg-container {
+  background-color: #0f172a;
+  font-family: "Roboto";
+  color: #f8fafc;
+  padding: 20px;
+  text-align: center;
+}
+.setting {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.property {
+  width: 250px;
+  height: 250px;
+}

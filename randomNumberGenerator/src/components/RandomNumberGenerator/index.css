@@ -1,0 +1,29 @@
+.bgContainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Roboto';
+  padding: 150px;
+  text-align: center;
+}
+.cardContainer {
+  margin: 50px;
+  text-align: center;
+  background-color: #ffffff;
+  width: 400px;
+  height: 400px;
+  box-shadow: #333333;
+  padding: 50px;
+  justify-content: center;
+}
+.heading {
+  color: #0b69ff;
+}
+.button {
+  width: 100px;
+  padding: 5px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-radius: 5px;
+  border-width: 0px;
+}

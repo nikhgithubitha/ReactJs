@@ -1,0 +1,16 @@
+.pro {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.classic {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  background-size: cover;
+  padding: 20px;
+}
+.style {
+  text-align: center;
+  padding: 20px;
+  font-family: 'Roboto';
+}

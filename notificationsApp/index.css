@@ -1,0 +1,38 @@
+.container {
+  width: 500px;
+  height: 100px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.green {
+  background-color: #2dca73;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.red {
+  background-color: #ff0b37;
+}
+
+.yellow {
+  background-color: #ffb800;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  padding: 20px;
+}
+
+.bg-container {
+  text-align: center;
+  font-family: "Roboto";
+  color: black;
+}

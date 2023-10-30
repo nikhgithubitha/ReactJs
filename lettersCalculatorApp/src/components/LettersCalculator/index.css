@@ -1,0 +1,15 @@
+.bg {
+  background-image: linear-gradient(#1d976c, #93f9b9);
+  color: #ffffff;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.pro {
+  background-color: #ffffff;
+  color: #1d976c;
+  border-radius: 5px;
+}
